@@ -3,3 +3,4 @@ python meme_coin_love_story_bot.py
 python meme_coin_love_story_bot.py
 nano requirements.txt
 pip install -r requirements.txt
+python correct_script_name.py
